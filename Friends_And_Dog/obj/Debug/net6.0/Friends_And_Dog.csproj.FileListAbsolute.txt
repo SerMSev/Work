@@ -1,0 +1,15 @@
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\bin\Debug\net6.0\Friends_And_Dog.exe
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\bin\Debug\net6.0\Friends_And_Dog.deps.json
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\bin\Debug\net6.0\Friends_And_Dog.runtimeconfig.json
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\bin\Debug\net6.0\Friends_And_Dog.dll
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\bin\Debug\net6.0\Friends_And_Dog.pdb
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\Friends_And_Dog.csproj.AssemblyReference.cache
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\Friends_And_Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\Friends_And_Dog.AssemblyInfoInputs.cache
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\Friends_And_Dog.AssemblyInfo.cs
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\Friends_And_Dog.csproj.CoreCompileInputs.cache
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\Friends_And_Dog.dll
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\refint\Friends_And_Dog.dll
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\Friends_And_Dog.pdb
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\Friends_And_Dog.genruntimeconfig.cache
+C:\Users\serms\Desktop\git\CS\Works\Friends_And_Dog\obj\Debug\net6.0\ref\Friends_And_Dog.dll
